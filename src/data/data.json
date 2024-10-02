@@ -1,0 +1,174 @@
+{
+  "Header": {
+    "title": "We are Cardexenses",
+    "paragraph": "Your personalized experience for Credit cards starts here."
+  },
+  "About": {
+    "paragraph": "This project, cardexenses.com, aims to address the underutilization of credit cards and their benefits by creating a platform where users can rent credit cards to maximize their purchasing rewards and lend their cards for minimal profits.",
+    "Why": [
+      "Instant Approval: Get approved for your credit card or rental in minutes.",
+      "No Hidden Fees: Transparent pricing with no surprise charges",
+      "Secure Transactions: Experience peace of mind with our advanced security measures.",
+      "24/7 Customer Support: Access our dedicated support team anytime for assistance."
+    ],
+    "Why2": [
+      "Exclusive Rewards: Earn points, cashback, and other rewards with every transaction.",
+      "Flexible Card Options: Choose from various Cards and their plans that suit your financial needs.",
+      "Customizable Credit Limits: Adjust your credit limit based on your spending habits and financial goals.",
+      "Returns: Earn Valuable profits for lending your idol sitting cards."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Advance Technology",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "User-Friendly",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Collaborative",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Exclusive & Secure",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Modern & Impressive",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Progress-Tracking",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Time-Saving",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Customizable",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Transparency",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Know Your Credit card.",
+      "text": "Description: Complete Knowledge prior to renting a credit card for any financial need."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Easy to Rent a card & Lend your card.",
+      "text": "Description: Easily Rent a card from a wide range of users and lend your cards for profits and all of this without any hassle."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Progress tracking.",
+      "text": "Description: Keep your progress safe and track it from anywhere securely from any device round the clock with personalised credentials."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Credit Score Monitoring.",
+      "text": "Description: Monitor your credit score with our free tools, receive alerts on any changes, and get tips on how to improve your credit rating."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Renting a credit card through this platform was a game-changer! The process was incredibly smooth, and I was able to make a large purchase without any hassle. The customer service team was always available to help me, and I felt completely secure using the service.\"",
+      "name": "Paul Hoffman"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I was skeptical at first, but this website exceeded my expectations. The rates were transparent, and I loved the flexibility of choosing different credit cards. It gave me the financial freedom I needed for my trip without impacting my credit score.\"",
+      "name": "Dean Rasumussen"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Fantastic service! I needed a credit card with a higher limit for a short-term business investment, and this platform made it possible. The entire process was quick and easy, and the rental terms were very clear. I highly recommend this service to anyone in need of short-term credit.\"",
+      "name": "K B Benson"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"I’ve used this credit card rental service multiple times now, and it’s always been reliable. I appreciate the transparency and security they offer. It’s perfect for big purchases that I wouldn’t normally be able to make on my own card!\"",
+      "name": " Lorita mandana"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"The best part about this service is how flexible it is. I could choose from different credit cards with varying limits and features. It really gave me the freedom to make a large purchase without tying up my own credit. Highly recommend for anyone in a similar situation!\"",
+      "name": "Johnathan fernandez"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"This platform really helped me when I needed to make a large purchase but didn't have enough credit available on my personal cards. The renting process was seamless, and the rates were much better than I expected. I will definitely be using this again!\"",
+      "name": "Rita Chavez"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Aditya Kumar",
+      "job": "Frontend Developer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Arpit Goyal",
+      "job": "Backend Developer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Surabhi Kumari",
+      "job": "UI/UX Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Avneesh Kumar",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Galgotias University, Plot no.-2, Sec-17A, Yamuna Expressway, Dhankaur, Gautam Buddha Nagar, Uttar Pradesh-203201. ",
+    "phone": "+91 9910772656, +91 9897595204, +91 6266793233",
+    "email": "infodesk.care@cardexenses.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Live Interactions",
+      "text": "Interact Live with users."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Latest Updates",
+      "text": "Be updated with the latest market trend."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "24/7 Customer Support",
+      "text": "Complete assistance round the clock."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Virtual assistance",
+      "text": "We are working on this."
+    }
+  ]
+}
